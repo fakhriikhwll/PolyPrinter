@@ -1,0 +1,6 @@
+D:\18.11.2265\Polymorphism\PolyPrinter\PolyPrinter\obj\Debug\PolyPrinter.csproj.CoreCompileInputs.cache
+D:\18.11.2265\Polymorphism\PolyPrinter\PolyPrinter\bin\Debug\PolyPrinter.exe.config
+D:\18.11.2265\Polymorphism\PolyPrinter\PolyPrinter\bin\Debug\PolyPrinter.exe
+D:\18.11.2265\Polymorphism\PolyPrinter\PolyPrinter\bin\Debug\PolyPrinter.pdb
+D:\18.11.2265\Polymorphism\PolyPrinter\PolyPrinter\obj\Debug\PolyPrinter.exe
+D:\18.11.2265\Polymorphism\PolyPrinter\PolyPrinter\obj\Debug\PolyPrinter.pdb
